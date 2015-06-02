@@ -5,10 +5,8 @@ awesources - Awesome list of resources
 
 > **Don't forget to give a star if you like it!**
 
-**Do you spend much time looking for resources in google?**
-
-**Do you don't know where to search, because there are a lot of websites?**
-
+**Do you spend much time looking for resources in google?**</br>
+**Do you don't know where to search, because there are a lot of websites?**</br>
 **Do you have a lot of work and don't have time to do a REAL and GOOD search?**
 
 If your answer is **YES**, *you'll find everything you want here*. This is YOUR site.

@@ -17,10 +17,47 @@ body {
 }
 
 a {
-  color: #1e6bb8;
-  text-decoration: none; }
-  a:hover {
-    text-decoration: underline; }
+  /* color: #1e6bb8;*/
+  color: #BEBDBC;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #858483;
+  transition: 0.2s ease-in-out 0s;
+}
+
+/* HEADER MENU */
+/* For minimal style menu with sliding underline */
+.page-header a {
+  margin-right: 20px;
+  color: white;
+  opacity: 0.6;
+  transition: all 0.2s ease-in-out 0s;
+  display: inline-block;
+  position: relative;
+  padding-bottom: 3px;
+}
+
+.page-header a:after {
+  content: '';
+  display: block;
+  margin: auto;
+  height: 3px;
+  width: 0px;
+  transition: width .5s ease, background-color .5s ease;
+}
+
+.page-header a:hover {
+  opacity: 1;
+}
+
+.page-header a:hover:after {
+  /* border-bottom: 2px solid white; */
+  width: 100%;
+  background: white;
+}
+/* END HEADER MENU */
 
 .btn {
   display: inline-block;
@@ -64,7 +101,9 @@ a {
   color: #fff;
   text-align: center;
   background-color: #159957;
-  background-image: linear-gradient(120deg, #155799, #159957); }
+  /*background-image: linear-gradient(120deg, #155799, #159957);*/
+  background: transparent url("http://subtlepatterns.com/patterns/footer_lodyas.png") repeat scroll 0% 0%;
+}
 
 @media screen and (min-width: 64em) {
   .page-header {

@@ -1,0 +1,22 @@
+/* ============================================================
+  CSS FOR ALL PAGES
+============================================================ */
+/* clear */
+section > div, h3 {
+	clear: both;
+}
+
+/* Float images and put size */
+div > img {
+	float: left;
+	margin-bottom: 50px;
+	height: 250px;
+	width: 400px;
+}
+
+/* float text */
+.texto {
+	float: left;
+	width: 48%;
+	margin-left: 30px;
+}

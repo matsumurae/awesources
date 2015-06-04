@@ -15,6 +15,7 @@ PLEASE, go to [awesources page](https://matsumurae.github.io/awesources/) to vie
 * Books
 * Designers
 * Utilities
+* Tutorials
 * Other things
 
 **Remember all of these have subcategories*

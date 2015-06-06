@@ -8,13 +8,17 @@ For developers, designers and inspiration-searchers.
 PLEASE, go to [awesources page](https://matsumurae.github.io/awesources/) to view all info!
 
 # TOC [CATEGORIES]
-* Frontend development
-* Backend development
+* Frontend
+* Backend
 * Books
-* Designers
+* Design
 * Utilities
 * Tutorials
 * Other things
+* Compilations
+* Blog posts
+* Inspiration
+* Github
 
 **Remember all of these have subcategories*
 

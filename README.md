@@ -1,7 +1,5 @@
 AWESOURCES
 =======================
-### **For best web experience, see categories in a computer**
-
 Welcome to awesources! Here you'll find awesome and wonderful resources for every work you'll do.<br/>
 For developers, designers and inspiration-searchers.
 

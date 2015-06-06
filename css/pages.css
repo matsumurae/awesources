@@ -6,9 +6,22 @@ section > div, h3, footer {
 	clear: both;
 }
 
+/* tooltip jquery for icons */
+.tooltip {
+  display:none;
+  position:absolute;
+  background-color:rgb(236,177,75);
+  padding:10px;
+  color:#fff;
+  font-size:12px;
+  font-family: Quicksand;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
 /* Float images and put size */
 div > img {
-	float: left;
+	float: right;
 	margin-bottom: 50px;
 	height: 250px;
 	width: 400px;
@@ -17,6 +30,27 @@ div > img {
 /* float text */
 .texto {
 	float: left;
-	width: 48%;
-	margin-left: 30px;
+	width: 50%;
+	margin-right: 60px;
+}
+
+/* h4 title */
+.main-content h4 {
+  text-align: right;
+}
+
+/* MEDIA FOR DISPLAY CATEGORIES IN SMALL SCREENS */
+@media screen and (max-width: 955px) {
+  div > img {
+    float: none;
+    height: auto;
+    width: auto;
+    margin-bottom: 50px;
+  }
+
+  .texto {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+  }
 }

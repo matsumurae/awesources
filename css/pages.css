@@ -35,12 +35,24 @@ div > img {
 }
 
 /* h4 title */
-.main-content h4 {
+section h4 {
   text-align: right;
 }
 
 /* MEDIA FOR DISPLAY CATEGORIES IN SMALL SCREENS */
-@media screen and (max-width: 955px) {
+@media screen and (max-width: 456px) {
+  .miniborder {
+    margin-left: 45%;
+  }
+}
+
+@media screen and (max-width: 910px) {
+  .miniborder {
+    margin-left: 47%;
+  }
+}
+
+@media screen and (max-width: 1024px) {
   div > img {
     float: none;
     height: auto;

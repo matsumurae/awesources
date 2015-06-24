@@ -1,5 +1,7 @@
 AWESOURCES
 =======================
+<img src="https://github.com/matsumurae/awesources/blob/gh-pages/img/awesources.jpg?raw=true" alt="awesources">
+
 Welcome to awesources! Here you'll find awesome and wonderful resources for every work you'll do.<br/>
 For developers, designers and inspiration-searchers.
 

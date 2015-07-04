@@ -11,7 +11,7 @@ For developers, designers and inspiration-searchers.
 * Frontend
 * Backend
 * Books
-* Desing
+* Design
   * Color Picker
   * Palettes
   * Multipurpose

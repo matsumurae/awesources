@@ -35,6 +35,6 @@ For developers, designers and inspiration-searchers.
 * Github
 
 # CHANGESET
-* Version 0.3 - Design category: Added *Social Networks* in TOC - **Under construction**
+* Version 0.3 - Design category: Added *Social Networks* / Added lazyr.js
 * Version 0.2 - Design category finished
 * Version 0.1 - First version

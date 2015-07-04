@@ -11,20 +11,21 @@ For developers, designers and inspiration-searchers.
 * Frontend
 * Backend
 * Books
-* Design
-  * Color Picker
-  * Palettes
-  * Multipurpose
-  * Indefinable
-  * Templates (Will moved to Frontend)
-  * Fonts
-  * Icons
-  * Utilities
-  * PSD
-  * Vectors
-  * PS Plugins
-  * Images
-  * Social Networks
+* [Design](https://matsumurae.github.io/awesources/design.html)
+  * [Color Picker](https://matsumurae.github.io/awesources/design.html#color-picker)
+  * [Palettes](https://matsumurae.github.io/awesources/design.html#palettes)
+  * [Patterns](https://matsumurae.github.io/awesources/design.html#patterns)
+  * [Multipurpose](https://matsumurae.github.io/awesources/design.html#multipurpose)
+  * [Indefinable](https://matsumurae.github.io/awesources/design.html#indefinable)
+  * [Templates](https://matsumurae.github.io/awesources/design.html#templates) - **Will moved to Frontend**
+  * [Fonts](https://matsumurae.github.io/awesources/design.html#fonts)
+  * [Icons](https://matsumurae.github.io/awesources/design.html#icons)
+  * [Utilities](https://matsumurae.github.io/awesources/design.html#utilities)
+  * [PSD](https://matsumurae.github.io/awesources/design.html#psd)
+  * [Vectors](https://matsumurae.github.io/awesources/design.html#vectors)
+  * [PS Plugins](https://matsumurae.github.io/awesources/design.html#ps-plugins)
+  * [Images](https://matsumurae.github.io/awesources/design.html#images)
+  * [Social Networks](https://matsumurae.github.io/awesources/design.html#social-networks)
 * Utilities
 * Tutorials
 * Other things

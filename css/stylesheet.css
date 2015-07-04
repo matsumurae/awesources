@@ -367,6 +367,13 @@ div#topcontrol > img {
   background-color: white;
 }
 
+figcaption {
+  text-align: center;
+  font-style: italic;
+  font-family: 'Quicksand';
+  color: #FF3131;
+}
+
 /* ============================================================
   MEDIA QUERIES
 ============================================================ */

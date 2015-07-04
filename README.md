@@ -17,7 +17,7 @@ For developers, designers and inspiration-searchers.
   * [Patterns](https://matsumurae.github.io/awesources/design.html#patterns)
   * [Multipurpose](https://matsumurae.github.io/awesources/design.html#multipurpose)
   * [Indefinable](https://matsumurae.github.io/awesources/design.html#indefinable)
-  * [Templates](https://matsumurae.github.io/awesources/design.html#templates) - **Will moved to Frontend**
+  * [Templates](https://matsumurae.github.io/awesources/design.html#templates) - **Will be moved to Frontend**
   * [Fonts](https://matsumurae.github.io/awesources/design.html#fonts)
   * [Icons](https://matsumurae.github.io/awesources/design.html#icons)
   * [Utilities](https://matsumurae.github.io/awesources/design.html#utilities)
